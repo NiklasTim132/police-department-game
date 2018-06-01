@@ -4,4 +4,4 @@ In this game you are hunting thiefs, killer and other "bad guys". Find them and 
 
 --> All Scripts are by Niklas T. Rebel and Horst Jens (https://www.github.com/horstjens)
 
-His official Homepage: (www.spielend-programmieren.at). Inspired by the Game "Scotland Yard" (Ravensburger). Look here for detailed information: https://de.wikipedia.org/wiki/Scotland_Yard_(Spiel)
+Homepage of Horst Jens: (www.spielend-programmieren.at). Inspired by the Game "Scotland Yard" (Ravensburger). Look here for detailed information: https://de.wikipedia.org/wiki/Scotland_Yard_(Spiel)
