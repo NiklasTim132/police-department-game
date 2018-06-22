@@ -1,0 +1,56 @@
+################################ Legende ################################################
+#   1 = Polizist 1 Spawnpunkt                                                           #
+#   2 = Polizist 2 Spawnpunkt                                                           #
+#   3 = Polizist 3 Spawnpunkt                                                           #
+#   4 = Polizist 4 Spawnpunkt                                                           #
+#   X = Mister X   Spawnpunkt                                                           #
+#   A = Ampel                                                                           #
+#   # = Spielrand oder Ende der Straße (Für alle unüberwindbar!)                        #
+#   * = Sehenswürdigkeit (Für die Gegner wichtig!)                                      #
+#   ~ = Fluss (Für Gegner überwindbar für alle anderen nicht!)                          #
+#   U = U-Bahn-Strecke (Teleportiert beide Parteien zur nächsten "U"-markierten Stelle) #
+#   ? = Unbekanntes Territorium (Gleiche Funktion wie Spielrand, gilt nur für Polizist!)#
+#   L = Langsamer Straßenverkehr (Beide Parteien fahren mit halber Geschwindigkeit)     #
+#   . = Straße mit normalem Straßenverkehr (Befahrbar)                                  #
+#   B = Brücke zum Überqueren des Flusses                                               #
+#   T = Tunnel (Kann nur vom Gegener genutzt werden!)                                   #
+#########################################################################################  
+
+'''
+########################################################################
+#1..........A...............A..........................................#
+#..........######........#####################################.........#
+###U#LLLLLL#######ALLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL#
+#####LLLLLL..............................2...................*.........#
+#LLLLLLLLLL###########....#######.....###################LLLLLLLLLLLLLL#
+#*LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL#
+#~~~~~~BBBBB~~~~~~~~~~~~~~~~~LLLLLLLLLLLLL.................######A######
+#~~~~~~BBBBB~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~BBBBB~~U####.....######L######
+#??????.....?????????????????#.............................#...........#
+#??????.....?????????????????#LLLLLLLLLLLLLLLLLLLLLLLLLAAAA#.....#TT#..#
+#??????..3..............................LLL.......................TT*..#
+#.......................................LLL.......................TT#.##
+#......##LLLLLLLLLL.........#########################LLLLLLLLLLLLLTT#.##
+#..A#####TTLLLLLLLLLLLLLLLLLL~~~~~~~~~~~~~~~~~~~~~~~~~~~~BBBB~~~~~TX####
+#.#*.....TTAAAAAAAAAAAAAA####~~~~~~~~~~~~~~~~~~~~~~~~~~~~BBBB~~~~~TT####
+#.................................................................TT...#
+#.#??
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+########################################################################
